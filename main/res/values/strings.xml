@@ -1,0 +1,44 @@
+<resources>
+    <!--Redesign-->
+    <!--Specific Strings-->
+    <!--Home-->
+    <string name="titleMenu">Whiteboard</string>
+    <string name="exitButtonMenu">Exit</string>
+    <string name="app_name">Lovely</string>
+    <!--Colors-->
+    <string name="redColor">Red</string>
+    <string name="orangeColor">Orange</string>
+    <string name="yellowColor">Yellow</string>
+    <string name="greenColor">Green</string>
+    <string name="blueColor">Blue</string>
+    <string name="purpleColor">Purple</string>
+    <string name="blackColor">Black</string>
+    <string name="whiteColor">White</string>
+    <!--General Strings-->
+    <string name="settingButtonText">Setting</string>
+    <string name="saveButtonText">Save</string>
+    <string name="loadButtonText">Load</string>
+    <string name="deleteButtonText">Delete</string>
+    <string name="createButtonText">Create</string>
+    <string name="backButtonText">Back</string>
+    <string name="optionsButtonText">Options</string>
+    <string name="clearButtonBoard">Clear</string>
+    <!--Board-->
+    <string name="overwrite">Overwrite</string>
+    <string name="filler">TODO</string>
+    <string-array name="fileArray">
+        <item>Test1</item>
+        <item>Test2</item>
+        <item>Test3</item>
+        <item>Test4</item>
+        <item>Test5</item>
+    </string-array>
+    <!--Pop Up Box-->
+    <string name="confirmButtonText">Okay</string>
+    <string name="cancelButtonText">Cancel</string>
+    <!---->
+    <string name="custom_dialogTitle">Create Drawing</string>
+    <string name="custom_dialogPrefilledTypeIn">Enter Name of Drawing</string>
+    <!---->
+    <string name="confirmTitle">Do you really want to delete this file?</string>
+</resources>
