@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/whiteButtonColor"
+        android:layout_width="96dp"
+        android:layout_height="90dp"
+        android:layout_marginTop="512dp"
+        android:layout_marginEnd="48dp"
+        android:text="@string/whiteColor"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/purpleButtonColor"
+        android:layout_width="96dp"
+        android:layout_height="90dp"
+        android:layout_marginTop="360dp"
+        android:layout_marginEnd="48dp"
+        android:text="@string/purpleColor"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/redButtonColor"
+        android:layout_width="96dp"
+        android:layout_height="90dp"
+        android:layout_marginStart="48dp"
+        android:layout_marginTop="72dp"
+        android:theme="@color/salmon"
+        android:text="@string/redColor"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/orangeButtonColor"
+        android:layout_width="96dp"
+        android:layout_height="90dp"
+        android:layout_marginTop="72dp"
+        android:layout_marginEnd="48dp"
+        android:text="@string/orangeColor"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/yellowButtonColor"
+        android:layout_width="96dp"
+        android:layout_height="90dp"
+        android:layout_marginStart="48dp"
+        android:layout_marginTop="216dp"
+        android:text="@string/yellowColor"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/greenButtonColor"
+        android:layout_width="96dp"
+        android:layout_height="90dp"
+        android:layout_marginTop="216dp"
+        android:layout_marginEnd="48dp"
+        android:text="@string/greenColor"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/blueButtonColor"
+        android:layout_width="96dp"
+        android:layout_height="90dp"
+        android:layout_marginStart="48dp"
+        android:layout_marginTop="360dp"
+        android:text="@string/blueColor"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/blackButtonColor"
+        android:layout_width="96dp"
+        android:layout_height="90dp"
+        android:layout_marginStart="44dp"
+        android:layout_marginTop="512dp"
+        android:text="@string/blackColor"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/backButtonColor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="158dp"
+        android:layout_marginBottom="35dp"
+        android:text="@string/backButtonText"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
